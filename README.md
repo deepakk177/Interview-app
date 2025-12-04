@@ -1,4 +1,4 @@
-🌟 Project Description
+## 🌟 Project Description
 
 🚀 InterviewPrep Platform is a full-stack interview preparation website built using a modern React.js + Node.js architecture. The platform helps users practice and prepare for real technical interviews with structured question modules, coding challenges, timed mock tests, and expert-style interview experience.
 
@@ -6,7 +6,7 @@ Users can explore interview questions on topics like Data Structures, Algorithms
 
 The platform delivers a clean, interactive, and fast interview preparation environment, making it easier for students and developers to prepare efficiently for technical rounds.
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ⚛️ Frontend: React.js, Tailwind CSS
 
@@ -16,7 +16,7 @@ The platform delivers a clean, interactive, and fast interview preparation envir
 
 🚀 Deployment: Vercel (FE) + Netlify (BE)
 
-🎯 Core Features
+## 🎯 Core Features
 
 ✅ Topic-wise Interview Question Library
 ✅ Coding Practice Section with test execution support
@@ -26,7 +26,7 @@ The platform delivers a clean, interactive, and fast interview preparation envir
 ✅ Responsive and Developer-Friendly UI
 ✅ Real Interview-like Test Environment
 
-💡 Problem It Solves
+## 💡 Problem It Solves
 
 Existing interview prep resources are often:
 
@@ -37,7 +37,7 @@ Existing interview prep resources are often:
 
 InterviewPrep Platform unifies these needs into one structured, fast, and user-friendly system.
 
-🚀 Outcome
+## 🚀 Outcome
 
 This project helps users to:
 
